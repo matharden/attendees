@@ -1,2 +1,2 @@
 # attendees
-List of attendes
+List of attendees
